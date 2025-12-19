@@ -1,3 +1,8 @@
 
 Hello World
+<<<<<<< HEAD
 hello from branch A
+=======
+hello from branch from B
+>>>>>>> branchB
+hello from branch a And b
